@@ -93,10 +93,10 @@ The project includes:
 The application successfully retrieves, processes, and serves weather data through the custom endpoint.
 
 ### Example of a Successful JSON Response  
-<img src="./images/output_json.jpg" alt="Alt Text" width="500" height="300" />
+<img src="./images/output_json.jpg" alt="Alt Text" width="550" height="330" />
 *(from the `/weather/:city` endpoint)*  
 ### Response Headers
-<img src="./images/_headers.jpg" alt="Alt Text" width="500" height="300" />
+<img src="./images/_headers.jpg" alt="Alt Text" width="550" height="330" />
 
 
 
